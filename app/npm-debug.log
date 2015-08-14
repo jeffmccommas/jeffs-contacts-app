@@ -1,0 +1,225 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install' ]
+2 info using npm@2.9.0
+3 info using node@v0.12.0
+4 verbose readDependencies loading dependencies from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/package.json
+5 verbose install where, deps [ '/Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts',
+5 verbose install   [ 'karma',
+5 verbose install     'protractor',
+5 verbose install     'http-server',
+5 verbose install     'bower',
+5 verbose install     'shelljs',
+5 verbose install     'karma-junit-reporter',
+5 verbose install     'firebase' ] ]
+6 verbose install where, peers [ '/Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts',
+6 verbose install   [] ]
+7 verbose installManyTop reading for lifecycle /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/package.json
+8 info preinstall angular-seed@0.0.0
+9 verbose installManyTop reading scoped package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/bower/package.json
+10 verbose installManyTop reading scoped package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/firebase/package.json
+11 verbose installManyTop reading scoped package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/http-server/package.json
+12 verbose installManyTop reading scoped package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma/package.json
+13 verbose installManyTop reading scoped package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-chrome-launcher/package.json
+14 verbose installManyTop reading scoped package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-coffee-preprocessor/package.json
+15 verbose installManyTop reading scoped package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-firefox-launcher/package.json
+16 verbose installManyTop reading scoped package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-html2js-preprocessor/package.json
+17 verbose installManyTop reading scoped package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-jasmine/package.json
+18 verbose installManyTop reading scoped package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-junit-reporter/package.json
+19 verbose installManyTop reading scoped package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-phantomjs-launcher/package.json
+20 verbose installManyTop reading scoped package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-requirejs/package.json
+21 verbose installManyTop reading scoped package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-script-launcher/package.json
+22 verbose installManyTop reading scoped package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/protractor/package.json
+23 verbose installManyTop reading scoped package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/requirejs/package.json
+24 verbose installManyTop reading scoped package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/shelljs/package.json
+25 verbose readDependencies loading dependencies from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/package.json
+26 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/bower/package.json
+27 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/firebase/package.json
+28 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/http-server/package.json
+29 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma/package.json
+30 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-chrome-launcher/package.json
+31 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-coffee-preprocessor/package.json
+32 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-firefox-launcher/package.json
+33 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-html2js-preprocessor/package.json
+34 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-jasmine/package.json
+35 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-junit-reporter/package.json
+36 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-phantomjs-launcher/package.json
+37 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-requirejs/package.json
+38 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-script-launcher/package.json
+39 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/protractor/package.json
+40 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/requirejs/package.json
+41 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/shelljs/package.json
+42 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/bower/package.json
+43 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/bower.cmd/package.json
+44 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/http-server/package.json
+45 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/http-server.cmd/package.json
+46 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/karma/package.json
+47 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/karma.cmd/package.json
+48 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/protractor/package.json
+49 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/protractor.cmd/package.json
+50 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/r.js/package.json
+51 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/r.js.cmd/package.json
+52 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/shjs/package.json
+53 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/shjs.cmd/package.json
+54 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/webdriver-manager/package.json
+55 verbose targetResolver reading package data from /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/webdriver-manager.cmd/package.json
+56 verbose already installed skipping http-server@^0.6.1 /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts
+57 verbose already installed skipping bower@^1.3.1 /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts
+58 verbose already installed skipping shelljs@^0.2.6 /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts
+59 verbose already installed skipping karma-junit-reporter@^0.2.2 /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts
+60 verbose already installed skipping firebase@* /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts
+61 verbose already installed skipping karma@~0.10 /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts
+62 verbose already installed skipping protractor@^1.1.1 /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts
+63 silly install resolved []
+64 info build /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts
+65 info linkStuff angular-seed@0.0.0
+66 silly linkStuff angular-seed@0.0.0 has /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files as its parent node_modules
+67 verbose linkBins angular-seed@0.0.0
+68 verbose linkMans angular-seed@0.0.0
+69 verbose rebuildBundles angular-seed@0.0.0
+70 verbose rebuildBundles [ '.bin',
+70 verbose rebuildBundles   'bower',
+70 verbose rebuildBundles   'firebase',
+70 verbose rebuildBundles   'http-server',
+70 verbose rebuildBundles   'karma',
+70 verbose rebuildBundles   'karma-chrome-launcher',
+70 verbose rebuildBundles   'karma-coffee-preprocessor',
+70 verbose rebuildBundles   'karma-firefox-launcher',
+70 verbose rebuildBundles   'karma-html2js-preprocessor',
+70 verbose rebuildBundles   'karma-jasmine',
+70 verbose rebuildBundles   'karma-junit-reporter',
+70 verbose rebuildBundles   'karma-phantomjs-launcher',
+70 verbose rebuildBundles   'karma-requirejs',
+70 verbose rebuildBundles   'karma-script-launcher',
+70 verbose rebuildBundles   'protractor',
+70 verbose rebuildBundles   'requirejs',
+70 verbose rebuildBundles   'shelljs' ]
+71 verbose rebuild bundle /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-chrome-launcher
+72 info build /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-chrome-launcher
+73 info preinstall karma-chrome-launcher@0.1.12
+74 info linkStuff karma-chrome-launcher@0.1.12
+75 silly linkStuff karma-chrome-launcher@0.1.12 has /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules as its parent node_modules
+76 verbose linkBins karma-chrome-launcher@0.1.12
+77 verbose linkMans karma-chrome-launcher@0.1.12
+78 verbose rebuildBundles karma-chrome-launcher@0.1.12
+79 verbose rebuildBundles [ '.bin', 'which' ]
+80 info install karma-chrome-launcher@0.1.12
+81 info postinstall karma-chrome-launcher@0.1.12
+82 verbose rebuild bundle /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-coffee-preprocessor
+83 info build /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-coffee-preprocessor
+84 info preinstall karma-coffee-preprocessor@0.1.3
+85 info linkStuff karma-coffee-preprocessor@0.1.3
+86 silly linkStuff karma-coffee-preprocessor@0.1.3 has /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules as its parent node_modules
+87 verbose linkBins karma-coffee-preprocessor@0.1.3
+88 verbose linkMans karma-coffee-preprocessor@0.1.3
+89 verbose rebuildBundles karma-coffee-preprocessor@0.1.3
+90 verbose rebuildBundles [ '.bin', 'coffee-script' ]
+91 info install karma-coffee-preprocessor@0.1.3
+92 info postinstall karma-coffee-preprocessor@0.1.3
+93 verbose rebuild bundle /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-firefox-launcher
+94 info build /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-firefox-launcher
+95 info preinstall karma-firefox-launcher@0.1.6
+96 info linkStuff karma-firefox-launcher@0.1.6
+97 silly linkStuff karma-firefox-launcher@0.1.6 has /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules as its parent node_modules
+98 verbose linkBins karma-firefox-launcher@0.1.6
+99 verbose linkMans karma-firefox-launcher@0.1.6
+100 verbose rebuildBundles karma-firefox-launcher@0.1.6
+101 info install karma-firefox-launcher@0.1.6
+102 info postinstall karma-firefox-launcher@0.1.6
+103 verbose rebuild bundle /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-html2js-preprocessor
+104 info build /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-html2js-preprocessor
+105 info preinstall karma-html2js-preprocessor@0.1.0
+106 info linkStuff karma-html2js-preprocessor@0.1.0
+107 silly linkStuff karma-html2js-preprocessor@0.1.0 has /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules as its parent node_modules
+108 verbose linkBins karma-html2js-preprocessor@0.1.0
+109 verbose linkMans karma-html2js-preprocessor@0.1.0
+110 verbose rebuildBundles karma-html2js-preprocessor@0.1.0
+111 info install karma-html2js-preprocessor@0.1.0
+112 info postinstall karma-html2js-preprocessor@0.1.0
+113 verbose rebuild bundle /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-jasmine
+114 info build /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-jasmine
+115 info preinstall karma-jasmine@0.1.5
+116 info linkStuff karma-jasmine@0.1.5
+117 silly linkStuff karma-jasmine@0.1.5 has /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules as its parent node_modules
+118 verbose linkBins karma-jasmine@0.1.5
+119 verbose linkMans karma-jasmine@0.1.5
+120 verbose rebuildBundles karma-jasmine@0.1.5
+121 info install karma-jasmine@0.1.5
+122 info postinstall karma-jasmine@0.1.5
+123 verbose rebuild bundle /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-phantomjs-launcher
+124 info build /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-phantomjs-launcher
+125 info preinstall karma-phantomjs-launcher@0.1.4
+126 info linkStuff karma-phantomjs-launcher@0.1.4
+127 silly linkStuff karma-phantomjs-launcher@0.1.4 has /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules as its parent node_modules
+128 verbose linkBins karma-phantomjs-launcher@0.1.4
+129 verbose linkMans karma-phantomjs-launcher@0.1.4
+130 verbose rebuildBundles karma-phantomjs-launcher@0.1.4
+131 verbose rebuildBundles [ '.bin', 'phantomjs' ]
+132 info install karma-phantomjs-launcher@0.1.4
+133 info postinstall karma-phantomjs-launcher@0.1.4
+134 verbose rebuild bundle /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-requirejs
+135 info build /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-requirejs
+136 info preinstall karma-requirejs@0.2.2
+137 info linkStuff karma-requirejs@0.2.2
+138 silly linkStuff karma-requirejs@0.2.2 has /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules as its parent node_modules
+139 verbose linkBins karma-requirejs@0.2.2
+140 verbose linkMans karma-requirejs@0.2.2
+141 verbose rebuildBundles karma-requirejs@0.2.2
+142 info install karma-requirejs@0.2.2
+143 info postinstall karma-requirejs@0.2.2
+144 verbose rebuild bundle /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-script-launcher
+145 info build /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/karma-script-launcher
+146 info preinstall karma-script-launcher@0.1.0
+147 info linkStuff karma-script-launcher@0.1.0
+148 silly linkStuff karma-script-launcher@0.1.0 has /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules as its parent node_modules
+149 verbose linkBins karma-script-launcher@0.1.0
+150 verbose linkMans karma-script-launcher@0.1.0
+151 verbose rebuildBundles karma-script-launcher@0.1.0
+152 info install karma-script-launcher@0.1.0
+153 info postinstall karma-script-launcher@0.1.0
+154 verbose rebuild bundle /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/requirejs
+155 info build /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/requirejs
+156 info preinstall requirejs@2.1.17
+157 info linkStuff requirejs@2.1.17
+158 silly linkStuff requirejs@2.1.17 has /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules as its parent node_modules
+159 verbose linkBins requirejs@2.1.17
+160 verbose link bins [ { 'r.js': './bin/r.js' },
+160 verbose link bins   '/Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin',
+160 verbose link bins   false ]
+161 verbose linkMans requirejs@2.1.17
+162 verbose rebuildBundles requirejs@2.1.17
+163 silly gentlyRm /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/r.js is being purged
+164 verbose gentlyRm don't care about contents; nuking /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/r.js
+165 silly vacuum-fs purging /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin/r.js
+166 silly vacuum-fs quitting because other entries in /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/node_modules/.bin
+167 info install requirejs@2.1.17
+168 info postinstall requirejs@2.1.17
+169 info install angular-seed@0.0.0
+170 info postinstall angular-seed@0.0.0
+171 verbose unsafe-perm in lifecycle true
+172 info angular-seed@0.0.0 Failed to exec postinstall script
+173 verbose stack Error: angular-seed@0.0.0 postinstall: `bower install`
+173 verbose stack Exit status 1
+173 verbose stack     at EventEmitter.<anonymous> (/usr/local/lib/node_modules/npm/lib/utils/lifecycle.js:213:16)
+173 verbose stack     at EventEmitter.emit (events.js:110:17)
+173 verbose stack     at ChildProcess.<anonymous> (/usr/local/lib/node_modules/npm/lib/utils/spawn.js:24:14)
+173 verbose stack     at ChildProcess.emit (events.js:110:17)
+173 verbose stack     at maybeClose (child_process.js:1008:16)
+173 verbose stack     at Process.ChildProcess._handle.onexit (child_process.js:1080:5)
+174 verbose pkgid angular-seed@0.0.0
+175 verbose cwd /Users/jmccommas/Downloads/Chapter 3 - myContacts App/S4 - Edit & Display Single Contact/Program Files/mycontacts/app
+176 error Darwin 14.4.0
+177 error argv "node" "/usr/local/bin/npm" "install"
+178 error node v0.12.0
+179 error npm  v2.9.0
+180 error code ELIFECYCLE
+181 error angular-seed@0.0.0 postinstall: `bower install`
+181 error Exit status 1
+182 error Failed at the angular-seed@0.0.0 postinstall script 'bower install'.
+182 error This is most likely a problem with the angular-seed package,
+182 error not with npm itself.
+182 error Tell the author that this fails on your system:
+182 error     bower install
+182 error You can get their info via:
+182 error     npm owner ls angular-seed
+182 error There is likely additional logging output above.
+183 verbose exit [ 1, true ]
