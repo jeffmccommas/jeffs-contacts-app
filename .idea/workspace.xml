@@ -2,482 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6088be95-28da-4c1f-b225-fc66d2298217" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app2/contacts/addContact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app2/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app2/contacts/contacts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app2/contacts/contacts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app2/contacts/editContact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app2/contacts/viewContact.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/contacts/contacts.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/app.js" afterPath="$PROJECT_DIR$/app2/app.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-loader/.bower.json" afterPath="$PROJECT_DIR$/app2/components/angular-loader/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-loader/README.md" afterPath="$PROJECT_DIR$/app2/components/angular-loader/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-loader/angular-loader.js" afterPath="$PROJECT_DIR$/app2/components/angular-loader/angular-loader.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-loader/angular-loader.min.js" afterPath="$PROJECT_DIR$/app2/components/angular-loader/angular-loader.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-loader/angular-loader.min.js.map" afterPath="$PROJECT_DIR$/app2/components/angular-loader/angular-loader.min.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-loader/bower.json" afterPath="$PROJECT_DIR$/app2/components/angular-loader/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-loader/package.json" afterPath="$PROJECT_DIR$/app2/components/angular-loader/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-mocks/.bower.json" afterPath="$PROJECT_DIR$/app2/components/angular-mocks/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-mocks/README.md" afterPath="$PROJECT_DIR$/app2/components/angular-mocks/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-mocks/angular-mocks.js" afterPath="$PROJECT_DIR$/app2/components/angular-mocks/angular-mocks.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-mocks/bower.json" afterPath="$PROJECT_DIR$/app2/components/angular-mocks/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-mocks/ngAnimateMock.js" afterPath="$PROJECT_DIR$/app2/components/angular-mocks/ngAnimateMock.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-mocks/ngMock.js" afterPath="$PROJECT_DIR$/app2/components/angular-mocks/ngMock.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-mocks/ngMockE2E.js" afterPath="$PROJECT_DIR$/app2/components/angular-mocks/ngMockE2E.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-mocks/package.json" afterPath="$PROJECT_DIR$/app2/components/angular-mocks/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-route/.bower.json" afterPath="$PROJECT_DIR$/app2/components/angular-route/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-route/README.md" afterPath="$PROJECT_DIR$/app2/components/angular-route/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-route/angular-route.js" afterPath="$PROJECT_DIR$/app2/components/angular-route/angular-route.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-route/angular-route.min.js" afterPath="$PROJECT_DIR$/app2/components/angular-route/angular-route.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-route/angular-route.min.js.map" afterPath="$PROJECT_DIR$/app2/components/angular-route/angular-route.min.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-route/bower.json" afterPath="$PROJECT_DIR$/app2/components/angular-route/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-route/index.js" afterPath="$PROJECT_DIR$/app2/components/angular-route/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular-route/package.json" afterPath="$PROJECT_DIR$/app2/components/angular-route/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular/.bower.json" afterPath="$PROJECT_DIR$/app2/components/angular/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular/README.md" afterPath="$PROJECT_DIR$/app2/components/angular/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular/angular-csp.css" afterPath="$PROJECT_DIR$/app2/components/angular/angular-csp.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular/angular.js" afterPath="$PROJECT_DIR$/app2/components/angular/angular.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular/angular.min.js" afterPath="$PROJECT_DIR$/app2/components/angular/angular.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular/angular.min.js.gzip" afterPath="$PROJECT_DIR$/app2/components/angular/angular.min.js.gzip" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular/angular.min.js.map" afterPath="$PROJECT_DIR$/app2/components/angular/angular.min.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular/bower.json" afterPath="$PROJECT_DIR$/app2/components/angular/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular/index.js" afterPath="$PROJECT_DIR$/app2/components/angular/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angular/package.json" afterPath="$PROJECT_DIR$/app2/components/angular/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angularfire/.bower.json" afterPath="$PROJECT_DIR$/app2/components/angularfire/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angularfire/LICENSE" afterPath="$PROJECT_DIR$/app2/components/angularfire/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angularfire/README.md" afterPath="$PROJECT_DIR$/app2/components/angularfire/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angularfire/bower.json" afterPath="$PROJECT_DIR$/app2/components/angularfire/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angularfire/dist/angularfire.js" afterPath="$PROJECT_DIR$/app2/components/angularfire/dist/angularfire.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angularfire/dist/angularfire.min.js" afterPath="$PROJECT_DIR$/app2/components/angularfire/dist/angularfire.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/angularfire/index.js" afterPath="$PROJECT_DIR$/app2/components/angularfire/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/fastclick/.bower.json" afterPath="$PROJECT_DIR$/app2/components/fastclick/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/fastclick/LICENSE" afterPath="$PROJECT_DIR$/app2/components/fastclick/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/fastclick/README.md" afterPath="$PROJECT_DIR$/app2/components/fastclick/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/fastclick/bower.json" afterPath="$PROJECT_DIR$/app2/components/fastclick/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/fastclick/lib/fastclick.js" afterPath="$PROJECT_DIR$/app2/components/fastclick/lib/fastclick.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/firebase/.bower.json" afterPath="$PROJECT_DIR$/app2/components/firebase/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/firebase/README.md" afterPath="$PROJECT_DIR$/app2/components/firebase/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/firebase/bower.json" afterPath="$PROJECT_DIR$/app2/components/firebase/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/firebase/firebase-debug.js" afterPath="$PROJECT_DIR$/app2/components/firebase/firebase-debug.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/firebase/firebase.js" afterPath="$PROJECT_DIR$/app2/components/firebase/firebase.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/.bower.json" afterPath="$PROJECT_DIR$/app2/components/foundation/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/bower.json" afterPath="$PROJECT_DIR$/app2/components/foundation/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/css/foundation.css" afterPath="$PROJECT_DIR$/app2/components/foundation/css/foundation.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/css/foundation.css.map" afterPath="$PROJECT_DIR$/app2/components/foundation/css/foundation.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/css/foundation.min.css" afterPath="$PROJECT_DIR$/app2/components/foundation/css/foundation.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/css/normalize.css" afterPath="$PROJECT_DIR$/app2/components/foundation/css/normalize.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/css/normalize.css.map" afterPath="$PROJECT_DIR$/app2/components/foundation/css/normalize.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/css/normalize.min.css" afterPath="$PROJECT_DIR$/app2/components/foundation/css/normalize.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation.min.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.abide.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.abide.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.accordion.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.accordion.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.alert.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.alert.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.clearing.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.clearing.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.dropdown.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.dropdown.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.equalizer.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.equalizer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.interchange.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.interchange.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.joyride.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.joyride.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.magellan.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.magellan.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.offcanvas.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.offcanvas.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.orbit.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.orbit.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.reveal.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.reveal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.slider.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.slider.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.tab.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.tab.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.tooltip.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.tooltip.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/foundation/foundation.topbar.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/foundation/foundation.topbar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/vendor/fastclick.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/vendor/fastclick.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/vendor/jquery.cookie.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/vendor/jquery.cookie.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/vendor/jquery.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/vendor/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/vendor/modernizr.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/vendor/modernizr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/js/vendor/placeholder.js" afterPath="$PROJECT_DIR$/app2/components/foundation/js/vendor/placeholder.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/package.json" afterPath="$PROJECT_DIR$/app2/components/foundation/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/_functions.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/_functions.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/_settings.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/_settings.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_accordion.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_accordion.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_alert-boxes.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_alert-boxes.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_block-grid.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_block-grid.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_breadcrumbs.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_breadcrumbs.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_button-groups.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_button-groups.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_buttons.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_buttons.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_clearing.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_clearing.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_dropdown-buttons.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_dropdown-buttons.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_dropdown.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_dropdown.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_flex-video.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_flex-video.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_forms.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_forms.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_global.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_global.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_grid.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_grid.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_icon-bar.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_icon-bar.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_inline-lists.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_inline-lists.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_joyride.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_joyride.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_keystrokes.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_keystrokes.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_labels.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_labels.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_magellan.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_magellan.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_offcanvas.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_offcanvas.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_orbit.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_orbit.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_pagination.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_pagination.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_panels.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_panels.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_pricing-tables.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_pricing-tables.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_progress-bars.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_progress-bars.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_range-slider.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_range-slider.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_reveal.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_reveal.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_side-nav.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_side-nav.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_split-buttons.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_split-buttons.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_sub-nav.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_sub-nav.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_switches.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_switches.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_tables.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_tables.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_tabs.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_tabs.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_thumbs.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_thumbs.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_tooltips.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_tooltips.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_top-bar.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_top-bar.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_type.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_type.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/foundation/components/_visibility.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/foundation/components/_visibility.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/foundation/scss/normalize.scss" afterPath="$PROJECT_DIR$/app2/components/foundation/scss/normalize.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/.bower.json" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/.editorconfig" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/.editorconfig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/.gitattributes" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/.gitattributes" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/.gitignore" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/.jscsrc" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/.jscsrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/.jshintrc" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/.jshintrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/.travis.yml" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/.travis.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/CHANGELOG.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/CHANGELOG.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/CONTRIBUTING.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/LICENSE.txt" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/LICENSE.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/README.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/.editorconfig" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/.editorconfig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/.gitattributes" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/.gitattributes" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/.gitignore" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/.htaccess" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/.htaccess" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/404.html" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/404.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/LICENSE.txt" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/LICENSE.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/apple-touch-icon.png" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/apple-touch-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/browserconfig.xml" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/browserconfig.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/crossdomain.xml" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/crossdomain.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/css/main.css" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/css/normalize.css" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/css/normalize.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/doc/TOC.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/doc/TOC.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/doc/css.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/doc/css.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/doc/extend.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/doc/extend.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/doc/faq.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/doc/faq.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/doc/html.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/doc/html.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/doc/js.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/doc/js.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/doc/misc.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/doc/misc.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/doc/usage.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/doc/usage.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/favicon.ico" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/humans.txt" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/humans.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/img/.gitignore" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/img/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/index.html" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/js/main.js" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/js/plugins.js" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/js/plugins.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/js/vendor/jquery-1.11.3.min.js" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/js/vendor/jquery-1.11.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/js/vendor/modernizr-2.8.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/robots.txt" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/robots.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/tile-wide.png" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/tile-wide.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/dist/tile.png" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/tile.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/gulpfile.js" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/gulpfile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/package.json" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/.editorconfig" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/.editorconfig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/.gitattributes" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/.gitattributes" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/.gitignore" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/404.html" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/404.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/apple-touch-icon.png" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/apple-touch-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/browserconfig.xml" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/browserconfig.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/crossdomain.xml" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/crossdomain.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/css/main.css" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/doc/TOC.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/doc/TOC.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/doc/css.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/doc/css.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/doc/extend.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/doc/extend.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/doc/faq.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/doc/faq.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/doc/html.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/doc/html.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/doc/js.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/doc/js.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/doc/misc.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/doc/misc.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/doc/usage.md" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/doc/usage.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/favicon.ico" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/humans.txt" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/humans.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/img/.gitignore" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/img/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/index.html" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/src/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/js/main.js" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/js/plugins.js" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/js/plugins.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/js/vendor/modernizr-2.8.3.min.js" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/robots.txt" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/robots.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/tile-wide.png" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/tile-wide.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/src/tile.png" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/dist/tile.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/test/file_content.js" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/test/file_content.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/html5-boilerplate/test/file_existence.js" afterPath="$PROJECT_DIR$/app2/components/html5-boilerplate/test/file_existence.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery-placeholder/.bower.json" afterPath="$PROJECT_DIR$/app2/components/jquery-placeholder/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery-placeholder/bower.json" afterPath="$PROJECT_DIR$/app2/components/jquery-placeholder/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery-placeholder/jquery.placeholder.js" afterPath="$PROJECT_DIR$/app2/components/jquery-placeholder/jquery.placeholder.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery.cookie/.bower.json" afterPath="$PROJECT_DIR$/app2/components/jquery.cookie/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery.cookie/bower.json" afterPath="$PROJECT_DIR$/app2/components/jquery.cookie/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery.cookie/jquery.cookie.js" afterPath="$PROJECT_DIR$/app2/components/jquery.cookie/jquery.cookie.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/.bower.json" afterPath="$PROJECT_DIR$/app2/components/jquery/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/MIT-LICENSE.txt" afterPath="$PROJECT_DIR$/app2/components/jquery/MIT-LICENSE.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/bower.json" afterPath="$PROJECT_DIR$/app2/components/jquery/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/dist/jquery.js" afterPath="$PROJECT_DIR$/app2/components/jquery/dist/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/dist/jquery.min.js" afterPath="$PROJECT_DIR$/app2/components/jquery/dist/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/dist/jquery.min.map" afterPath="$PROJECT_DIR$/app2/components/jquery/dist/jquery.min.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/ajax.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/ajax.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/ajax/jsonp.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/ajax/jsonp.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/ajax/load.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/ajax/load.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/ajax/parseJSON.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/ajax/parseJSON.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/ajax/parseXML.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/ajax/parseXML.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/ajax/script.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/ajax/script.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/ajax/var/nonce.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/ajax/var/nonce.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/ajax/var/rquery.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/ajax/var/rquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/ajax/xhr.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/ajax/xhr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/attributes.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/attributes.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/attributes/attr.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/attributes/attr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/attributes/classes.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/attributes/classes.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/attributes/prop.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/attributes/prop.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/attributes/support.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/attributes/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/attributes/val.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/attributes/val.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/callbacks.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/callbacks.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/core.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/core.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/core/access.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/core/access.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/core/init.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/core/init.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/core/parseHTML.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/core/parseHTML.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/core/ready.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/core/ready.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/core/var/rsingleTag.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/core/var/rsingleTag.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/css.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/css.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/css/addGetHookIf.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/css/addGetHookIf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/css/curCSS.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/css/curCSS.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/css/defaultDisplay.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/css/defaultDisplay.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/css/hiddenVisibleSelectors.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/css/support.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/css/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/css/swap.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/css/swap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/css/var/cssExpand.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/css/var/cssExpand.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/css/var/getStyles.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/css/var/getStyles.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/css/var/isHidden.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/css/var/isHidden.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/css/var/rmargin.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/css/var/rmargin.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/css/var/rnumnonpx.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/css/var/rnumnonpx.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/data.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/data.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/data/Data.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/data/Data.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/data/accepts.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/data/accepts.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/data/var/data_priv.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/data/var/data_priv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/data/var/data_user.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/data/var/data_user.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/deferred.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/deferred.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/deprecated.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/deprecated.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/dimensions.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/dimensions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/effects.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/effects.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/effects/Tween.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/effects/Tween.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/effects/animatedSelector.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/effects/animatedSelector.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/event.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/event.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/event/ajax.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/event/ajax.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/event/alias.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/event/alias.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/event/support.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/event/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/exports/amd.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/exports/amd.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/exports/global.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/exports/global.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/intro.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/intro.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/jquery.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/manipulation.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/manipulation.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/manipulation/_evalUrl.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/manipulation/_evalUrl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/manipulation/support.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/manipulation/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/manipulation/var/rcheckableType.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/offset.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/offset.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/outro.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/outro.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/queue.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/queue.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/queue/delay.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/queue/delay.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/selector-native.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/selector-native.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/selector-sizzle.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/selector-sizzle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/selector.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/selector.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/serialize.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/serialize.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/sizzle/dist/sizzle.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/sizzle/dist/sizzle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/sizzle/dist/sizzle.min.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/sizzle/dist/sizzle.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/sizzle/dist/sizzle.min.map" afterPath="$PROJECT_DIR$/app2/components/jquery/src/sizzle/dist/sizzle.min.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/traversing.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/traversing.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/traversing/findFilter.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/traversing/findFilter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/traversing/var/rneedsContext.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/var/arr.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/var/arr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/var/class2type.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/var/class2type.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/var/concat.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/var/concat.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/var/hasOwn.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/var/hasOwn.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/var/indexOf.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/var/indexOf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/var/pnum.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/var/pnum.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/var/push.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/var/push.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/var/rnotwhite.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/var/rnotwhite.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/var/slice.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/var/slice.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/var/strundefined.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/var/strundefined.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/var/support.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/var/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/var/toString.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/var/toString.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/jquery/src/wrap.js" afterPath="$PROJECT_DIR$/app2/components/jquery/src/wrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/.bower.json" afterPath="$PROJECT_DIR$/app2/components/modernizr/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/.editorconfig" afterPath="$PROJECT_DIR$/app2/components/modernizr/.editorconfig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/.gitignore" afterPath="$PROJECT_DIR$/app2/components/modernizr/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/.travis.yml" afterPath="$PROJECT_DIR$/app2/components/modernizr/.travis.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/a-download.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/a-download.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/audio-audiodata-api.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/audio-audiodata-api.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/audio-webaudio-api.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/audio-webaudio-api.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/battery-api.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/battery-api.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/battery-level.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/battery-level.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/blob-constructor.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/blob-constructor.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/canvas-todataurl-type.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/canvas-todataurl-type.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/contenteditable.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/contenteditable.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/contentsecuritypolicy.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/contentsecuritypolicy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/contextmenu.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/contextmenu.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/cookies.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/cookies.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/cors.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/cors.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-backgroundposition-shorthand.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-backgroundposition-shorthand.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-backgroundposition-xy.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-backgroundposition-xy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-backgroundrepeat.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-backgroundrepeat.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-backgroundsizecover.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-backgroundsizecover.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-boxsizing.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-boxsizing.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-calc.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-calc.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-cubicbezierrange.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-cubicbezierrange.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-displayrunin.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-displayrunin.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-displaytable.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-displaytable.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-filters.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-filters.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-hyphens.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-hyphens.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-lastchild.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-lastchild.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-mask.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-mask.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-mediaqueries.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-mediaqueries.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-objectfit.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-objectfit.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-overflow-scrolling.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-overflow-scrolling.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-pointerevents.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-pointerevents.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-positionsticky.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-positionsticky.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-regions.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-regions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-remunit.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-remunit.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-resize.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-resize.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-scrollbars.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-scrollbars.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-shapes.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-shapes.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-subpixelfont.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-subpixelfont.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-supports.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-supports.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-userselect.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-userselect.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-vhunit.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-vhunit.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-vmaxunit.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-vmaxunit.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-vminunit.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-vminunit.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/css-vwunit.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/css-vwunit.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/custom-protocol-handler.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/custom-protocol-handler.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/dart.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/dart.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/dataview-api.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/dataview-api.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/dom-classlist.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/dom-classlist.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/dom-createElement-attrs.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/dom-createElement-attrs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/dom-dataset.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/dom-dataset.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/dom-microdata.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/dom-microdata.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/elem-datalist.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/elem-datalist.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/elem-details.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/elem-details.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/elem-output.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/elem-output.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/elem-progress-meter.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/elem-progress-meter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/elem-ruby.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/elem-ruby.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/elem-time.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/elem-time.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/elem-track.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/elem-track.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/emoji.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/emoji.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/es5-strictmode.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/es5-strictmode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/event-deviceorientation-motion.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/event-deviceorientation-motion.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/exif-orientation.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/exif-orientation.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/file-api.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/file-api.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/file-filesystem.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/file-filesystem.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/forms-fileinput.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/forms-fileinput.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/forms-formattribute.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/forms-formattribute.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/forms-inputnumber-l10n.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/forms-inputnumber-l10n.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/forms-placeholder.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/forms-placeholder.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/forms-speechinput.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/forms-speechinput.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/forms-validation.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/forms-validation.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/fullscreen-api.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/fullscreen-api.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/gamepad.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/gamepad.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/getusermedia.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/getusermedia.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/ie8compat.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/ie8compat.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/iframe-sandbox.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/iframe-sandbox.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/iframe-seamless.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/iframe-seamless.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/iframe-srcdoc.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/iframe-srcdoc.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/img-apng.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/img-apng.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/img-webp.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/img-webp.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/json.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/json.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/lists-reversed.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/lists-reversed.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/mathml.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/mathml.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/network-connection.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/network-connection.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/network-eventsource.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/network-eventsource.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/network-xhr2.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/network-xhr2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/notification.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/notification.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/performance.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/performance.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/pointerlock-api.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/pointerlock-api.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/quota-management-api.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/quota-management-api.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/requestanimationframe.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/requestanimationframe.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/script-async.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/script-async.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/script-defer.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/script-defer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/style-scoped.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/style-scoped.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/svg-filters.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/svg-filters.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/unicode.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/unicode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/url-data-uri.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/url-data-uri.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/userdata.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/userdata.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/vibration.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/vibration.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/web-intents.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/web-intents.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/webgl-extensions.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/webgl-extensions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/websockets-binary.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/websockets-binary.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/window-framed.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/window-framed.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/workers-blobworkers.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/workers-blobworkers.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/workers-dataworkers.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/workers-dataworkers.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/feature-detects/workers-sharedworkers.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/feature-detects/workers-sharedworkers.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/grunt.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/grunt.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/media/Modernizr 2 Logo.ai" afterPath="$PROJECT_DIR$/app2/components/modernizr/media/Modernizr 2 Logo.ai" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/media/Modernizr 2 Logo.eps" afterPath="$PROJECT_DIR$/app2/components/modernizr/media/Modernizr 2 Logo.eps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/media/Modernizr 2 Logo.pdf" afterPath="$PROJECT_DIR$/app2/components/modernizr/media/Modernizr 2 Logo.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/media/Modernizr 2 Logo.png" afterPath="$PROJECT_DIR$/app2/components/modernizr/media/Modernizr 2 Logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/media/Modernizr 2 Logo.svg" afterPath="$PROJECT_DIR$/app2/components/modernizr/media/Modernizr 2 Logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/modernizr.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/modernizr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/readme.md" afterPath="$PROJECT_DIR$/app2/components/modernizr/readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/basic.html" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/basic.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse.html" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/Windsong-webfont.eot" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/Windsong-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/Windsong-webfont.otf" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/Windsong-webfont.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/Windsong-webfont.svg" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/Windsong-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/Windsong-webfont.ttf" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/Windsong-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/Windsong-webfont.woff" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/Windsong-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/alpha.png" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/alpha.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/apng_test.png" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/apng_test.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/before-after.png" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/before-after.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/form_validation.html" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/form_validation.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/ga.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/ga.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/green5x5.png" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/green5x5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/hashchange.html" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/hashchange.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/jquery.min.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/mathml.html" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/mathml.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/mathml_ref.png" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/mathml_ref.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/modernizr-1.7.min.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/modernizr-1.7.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/png_alpha_result.png" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/png_alpha_result.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/pushstate.html" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/pushstate.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/red30x30.png" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/red30x30.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/ruby.png" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/ruby.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/stroked-text.png" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/stroked-text.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/style.css" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/svg-html-blur.png" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/svg-html-blur.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/svg-img.svg" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/svg-img.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/svg-img.svg.1" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/svg-img.svg.1" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/svg_blur.png" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/svg_blur.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/table.png" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/table.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/text-shadow1.png" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/text-shadow1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/text-shadow2.png" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/text-shadow2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/windsong_font.png" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/windsong_font.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/caniuse_files/xhtml.html" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/caniuse_files/xhtml.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/index.html" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/js/basic.html" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/js/basic.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/js/dumpdata.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/js/dumpdata.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/js/lib/detect-global.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/js/lib/detect-global.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/js/lib/jquery-1.7b2.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/js/lib/jquery-1.7b2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/js/lib/jsonselect.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/js/lib/jsonselect.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/js/lib/polyfills.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/js/lib/polyfills.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/js/lib/uaparser.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/js/lib/uaparser.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/js/setup.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/js/setup.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/js/unit-caniuse.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/js/unit-caniuse.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/js/unit.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/js/unit.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/qunit/qunit.css" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/qunit/qunit.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/qunit/qunit.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/qunit/qunit.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/modernizr/test/qunit/run-qunit.js" afterPath="$PROJECT_DIR$/app2/components/modernizr/test/qunit/run-qunit.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/version/interpolate-filter.js" afterPath="$PROJECT_DIR$/app2/components/version/interpolate-filter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/version/interpolate-filter_test.js" afterPath="$PROJECT_DIR$/app2/components/version/interpolate-filter_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/version/version-directive.js" afterPath="$PROJECT_DIR$/app2/components/version/version-directive.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/version/version-directive_test.js" afterPath="$PROJECT_DIR$/app2/components/version/version-directive_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/version/version.js" afterPath="$PROJECT_DIR$/app2/components/version/version.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/version/version_test.js" afterPath="$PROJECT_DIR$/app2/components/version/version_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/contacts/viewContacts.html" afterPath="$PROJECT_DIR$/app/contacts/viewContact.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/index-async.html" afterPath="$PROJECT_DIR$/app2/index-async.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contacts/addContact.html" afterPath="$PROJECT_DIR$/app/contacts/addContact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contacts/contacts.html" afterPath="$PROJECT_DIR$/app/contacts/contacts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contacts/editContact.html" afterPath="$PROJECT_DIR$/app/contacts/editContact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jeffs-contacts-app.iws" />
@@ -500,16 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app2/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="40" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/app.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -531,26 +45,6 @@
         </entry>
       </file>
       <file leaf-file-name="addContact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app2/contacts/addContact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="24" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contacts.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app2/contacts/contacts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="134" column="19" selection-start-line="131" selection-start-column="16" selection-end-line="134" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="addContact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/contacts/addContact.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
@@ -560,20 +54,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contacts.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app2/contacts/contacts.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="10" selection-start-line="32" selection-start-column="4" selection-end-line="36" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="contacts.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/contacts/contacts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60723513">
+            <state vertical-scroll-proportion="0.0">
               <caret line="115" column="21" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
               <folding />
             </state>
@@ -682,8 +166,9 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -702,23 +187,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jeffs-contacts-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jeffs-contacts-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1008,7 +478,9 @@
       <workItem from="1439294373665" duration="12305000" />
       <workItem from="1439402392794" duration="7083000" />
       <workItem from="1439465292902" duration="794000" />
-      <workItem from="1439546772457" duration="111000" />
+      <workItem from="1439546772457" duration="320000" />
+      <workItem from="1440069299555" duration="9000" />
+      <workItem from="1440077603425" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="added contacts table">
       <created>1439151268120</created>
@@ -1044,7 +516,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73028000" />
+    <option name="totallyTimeSpent" value="73267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="269" y="23" width="2089" height="1337" extended-state="0" />
@@ -1054,7 +526,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31911403" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31859133" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1071,9 +543,9 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1121,10 +593,98 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app2/contacts/contacts.html">
+    <entry file="file://$PROJECT_DIR$/app/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/contacts/addContact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="4" selection-end-line="131" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/contacts/contacts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/contacts/editContact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/contacts/contacts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/contacts/addContact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="4" selection-end-line="131" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/contacts/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="115" column="21" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/contacts/editContact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/contacts/contacts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -1137,40 +697,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app2/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app2/components/angularfire/dist/angularfire.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app2/contacts/contacts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1203,25 +733,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="66" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/karma.conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app2/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1254,21 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app2/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1288,13 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app2/components/angular/angular.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1349,45 +842,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app2/components/angular-toastr/dist/angular-toastr.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="21" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app2/contacts/editContact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="72" selection-start-line="36" selection-start-column="66" selection-end-line="36" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app2/contacts/viewContact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app2/components/angularfire/dist/angularfire.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.535714">
           <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app2/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="23" selection-start-line="4" selection-start-column="2" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1402,13 +860,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.428571">
           <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app2/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1427,26 +878,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app2/contacts/addContact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="24" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/contacts/editContact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app2/contacts/contacts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="134" column="19" selection-start-line="131" selection-start-column="16" selection-end-line="134" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -1475,25 +910,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app2/contacts/contacts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="10" selection-start-line="32" selection-start-column="4" selection-end-line="36" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/contacts/contacts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60723513">
+        <state vertical-scroll-proportion="0.0">
           <caret line="115" column="21" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
           <folding />
         </state>
