@@ -480,7 +480,7 @@
       <workItem from="1439465292902" duration="794000" />
       <workItem from="1439546772457" duration="320000" />
       <workItem from="1440069299555" duration="9000" />
-      <workItem from="1440077603425" duration="21000" />
+      <workItem from="1440077603425" duration="106000" />
     </task>
     <task id="LOCAL-00001" summary="added contacts table">
       <created>1439151268120</created>
@@ -516,7 +516,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73267000" />
+    <option name="totallyTimeSpent" value="73352000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="269" y="23" width="2089" height="1337" extended-state="0" />
